@@ -1,3 +1,16 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "farmer1-profile",
+      "description": "Profile picture of Bhavna Patel",
+      "imageUrl": "https://images.unsplash.com/photo-1619895862022-09114b41f16f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwcm9maWxlJTIwcGljdHVyZXxlbnwwfHx8fDE3NTk0NTU3NDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "profile picture"
+    },
+    {
+      "id": "farmer2-profile",
+      "description": "Profile picture of Rajesh Kumar",
+      "imageUrl": "https://images.unsplash.com/photo-1654110455429-cf322b40a906?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwcm9maWxlJTIwcGljdHVyZXxlbnwwfHx8fDE3NTk0NTU3NDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "profile picture"
+    }
+  ]
 }
